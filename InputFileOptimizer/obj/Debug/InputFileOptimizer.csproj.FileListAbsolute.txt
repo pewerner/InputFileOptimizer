@@ -1,0 +1,5 @@
+c:\users\pwerner\documents\visual studio 2010\Projects\InputFileOptimizer\InputFileOptimizer\obj\Debug\ResolveAssemblyReference.cache
+c:\users\pwerner\documents\visual studio 2010\Projects\InputFileOptimizer\InputFileOptimizer\bin\Debug\InputFileOptimizer.dll
+c:\users\pwerner\documents\visual studio 2010\Projects\InputFileOptimizer\InputFileOptimizer\bin\Debug\InputFileOptimizer.pdb
+c:\users\pwerner\documents\visual studio 2010\Projects\InputFileOptimizer\InputFileOptimizer\obj\Debug\InputFileOptimizer.dll
+c:\users\pwerner\documents\visual studio 2010\Projects\InputFileOptimizer\InputFileOptimizer\obj\Debug\InputFileOptimizer.pdb
